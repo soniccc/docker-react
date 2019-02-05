@@ -14,7 +14,8 @@ class App extends Component {
              Harry Kane... One of Our Own!!<br />
              YIDS!!<br />
              COYS!!<br />
-             DELE!!!!
+             DELE!!!!<br />>
+             PL CHAMPIONS 2018/19
           </p>
           <a
             className="App-link"
